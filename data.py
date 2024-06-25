@@ -13,7 +13,7 @@ product_ids = {
 }
 
 
-CREATE_USER_PATH = "/api/v1/users/"
+
 
 kit_body1 = {"name": "A"}
 
